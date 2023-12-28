@@ -1,9 +1,5 @@
-# Kayee... Chat Application
+# Chat Application
 
-A detailed article is published on [Medium](https://levelup.gitconnected.com/create-a-chat-application-in-golang-with-redis-and-reactjs-c75611717f84).
-
-
-![](kayee.png)
 
 ## Setup
 
@@ -42,5 +38,3 @@ npm start
 ```
 
 Application is live at `localhost:3000`. 
-
-![](https://github.com/schadokar/go-chat-app/blob/main/Videos%20(1).gif)
